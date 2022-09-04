@@ -55,9 +55,15 @@ To change the hyperparameters and other experiment set up, start from the [parse
 If you find the repository helpful, please cite the following paper
 ```bibtex
 @inproceedings{cui2022inductive,
-  title={Inductive Knowledge Graph Reasoning for Multi-batch Emerging Entities},
-  author={Cui, Yuanning and Wang, Yuxin and Sun, Zequn and Liu, Wenqiang and Jiang, Yiqiao and Han, Kexin and Hu, Wei},
-  journal={CIKM},
-  year={2022}
+  title = {Inductive Knowledge Graph Reasoning for Multi-batch Emerging Entities},
+  author = {Cui, Yuanning and 
+            Wang, Yuxin and 
+            Sun, Zequn and 
+            Liu, Wenqiang and 
+            Jiang, Yiqiao and 
+            Han, Kexin and 
+            Hu, Wei},
+  journal = {CIKM},
+  year = {2022}
 }
 ```
