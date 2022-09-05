@@ -51,6 +51,8 @@ You can use following datasets: `WN-MBE`, `FB-MBE` and `NELL-MBE`.
 ### Change the hyperparameters
 To change the hyperparameters and other experiment set up, start from the [parse_args files](src/parse_args.py) and [config files](src/config.py).
 
+> If you have any difficulty or question in running code and reproducing experimental results, please email to yncui.nju@gmail.com.
+
 ## Citation
 If you find the repository helpful, please cite the following paper
 ```bibtex
