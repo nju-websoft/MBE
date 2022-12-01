@@ -65,7 +65,7 @@ If you find the repository helpful, please cite the following paper
             Jiang, Yiqiao and 
             Han, Kexin and 
             Hu, Wei},
-  journal = {CIKM},
+  booktitle = {CIKM},
   year = {2022}
 }
 ```
