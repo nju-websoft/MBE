@@ -28,7 +28,7 @@ In each dataset, there are six `add_x` folders, where `add_1` is the validation 
 
 Following [Multi-Hop](https://github.com/salesforce/MultiHopKG/blob/master/data-release.tgz), the pagerank files are generated using the tool (https://github.com/timothyasp/PageRank). 
 
-Update (2022.12.26): Delete the isolated entities in validation set. Now, there are 7636, 21406, and 18501 facts in the validation sets of WN-MBE, FB-MBE, and NELL-MBE, respectively.
+Update (2022.12.26): Delete the isolated entities in the validation sets. Now, there are 7636, 31406, and 18501 facts in the validation sets of WN-MBE, FB-MBE, and NELL-MBE, respectively.
 
 ### Training and evaluation
 1. Train model
